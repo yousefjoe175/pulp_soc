@@ -1043,4 +1043,11 @@ module pulp_soc import dm::*; #(
         end
     end
 
+
+    // Instantiation of the dummy vip
+    dummy_top i_dummy_top();
+    
+
+
+
 endmodule

@@ -120,3 +120,5 @@ riscv-dbg:
 register_interface:
   commit: v0.3.1
   domain: [soc]
+dummy_vip:
+  commit: 7c10dafd60ff65c1ec160d1091a96f12b276049c

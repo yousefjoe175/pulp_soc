@@ -48,6 +48,8 @@ dependencies:
   hwpe-mac-engine:        { git: "https://github.com/pulp-platform/hwpe-mac-engine.git", version: 1.3.3 }
   riscv-dbg:              { git: "https://github.com/pulp-platform/riscv-dbg.git", version: 0.5.0 }
   register_interface:     { git: "https://github.com/pulp-platform/register_interface.git", version: 0.3.1 }
+  #add the dummy_vip dependency
+  dummy_vip:              { git: "https://github.com/yousefjoe175/dummy_vip.git", rev: "7c10dafd60ff65c1ec160d1091a96f12b276049c" }
 
 sources:
   # pulp_soc
